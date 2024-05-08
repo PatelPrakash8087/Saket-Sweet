@@ -20,7 +20,7 @@
 <div align="center">
 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/appLogo.png" alt="Logo" width="200" height="100">
+    <img src="assets/logo.webp" alt="Logo" width="200" height="200">
   </a> 
 
 
@@ -43,28 +43,55 @@
 ## About The Project
 
 <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/home.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/home.jpg" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/home2.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/add_address.jpg" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/createCurtain.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/all_address.jpg" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/allOrder.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/all_categories.jpg" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/editDetails.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/cart_list.jpg" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/pdf.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/favorite.jpg" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/note.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/food_list.jpg" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/user&role.jpg" alt="Logo" width="200" height="400">
+    <img src="assets/invoice.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/order.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/order_details.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/order_list.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/otp.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/payment_details.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/phone.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/profile.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/update_profile.jpg" alt="Logo" width="200" height="400">
+  </a>
+   <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/wish_list.jpg" alt="Logo" width="200" height="400">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -74,7 +101,7 @@
 ### Built With
 
 [![flutter][flutter.js]][Next-url]<br>
-[![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28)](Next-url)<br>
+[![laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)<br>
 [![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2)](Next-url)
 <!--
 * [![React][React.js]][React-url]
@@ -92,25 +119,31 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Curtain Avenue is an innovative Flutter-based mobile application designed to introduce users to the world of coding through a unique interactive experience. In this application, users will embark on a journey as they navigate through a virtual city, controlling the movement of a character through a series of challenges.
+Saket Sweet is a delightful Flutter-based mobile application crafted to provide users with a sweet journey into the world of coding. In this app, users will embark on an enchanting adventure through a virtual city, guiding a character through a series of engaging challenges.
 
-The core concept of Curtain Avenue revolves around using a block-based programming system to plan the character's route. Instead of traditional lines of code, users will use a drag-and-drop system that employs visual blocks of statements, making coding concepts more accessible and engaging for beginners.
+Curtain Avenue is a groundbreaking mobile application developed using Flutter, aiming to initiate users into the realm of coding through an immersive interactive experience. Within this app, users embark on an exciting journey, navigating a virtual city while guiding a character through a series of stimulating challenges.
 
-The application utilizes Firebase as its backend, providing a seamless integration of data storage and real-time updates. This allows for a robust and scalable infrastructure to support the game's features and user interactions.
+## Core Concept
+
+At the heart of Curtain Avenue lies a revolutionary block-based programming system, designed to streamline the planning of the character's path. Departing from conventional lines of code, users employ an intuitive drag-and-drop interface, utilizing visual blocks of statements to craft intricate routes. This approach fosters accessibility and engagement, particularly for novice coders, by presenting coding concepts in a user-friendly and interactive format.
 
 ### Features
 
-1. `Create Order`: User can add their details like name , number and Etc. and get types to select Curtains.
+1. `All Categories`: Explore a wide array of curtain categories tailored to suit every taste and preference. From elegant drapes to vibrant prints, users can browse through various categories to discover the perfect curtains for their space.
 
-2. `Users & Roles`: In this feature Admin can add their membes and define theirs roles with members details.
+2. `Cart List`: Seamlessly manage your shopping cart with the Cart List feature. Add desired curtains to your cart, review selected items, and modify quantities as needed. With a user-friendly interface, the Cart List ensures a hassle-free shopping experience.
 
-3. `Notes`: This feature for daily work details and only admin can delete that or in 24hr it is auto delete. 
+3. `Favorite List`: Create a personalized collection of favorite curtains with the Favorite List feature. Mark curtains as favorites to easily revisit and compare them later, streamlining the decision-making process and enhancing user convenience.
 
-4. `Profile`: The profile Section hold that members details and their bank details also with logout feature.
+4. `Profile`: Access your personalized profile to view and manage account details. Update personal information, track order history, and manage preferences with ease. The Profile feature offers a seamless and customizable user experience tailored to individual needs.
  
-5. `All Order`: This is main feature of our app in this feature Admin can seen their all client details client work & we also have an call feature and Edit feature for edit clients Curtains Details 
-   we can also get client project detail in PDF form and we can download and share it in app
+5. `Invoice`: Stay organized and informed with detailed invoices for each purchase. Access comprehensive invoices containing itemized lists, prices, and order summaries to track expenses and facilitate record-keeping.
 
+6. `Order Details`:  Gain insights into order status and progress with the Order Details feature. View detailed information about current and past orders, including order dates, item details, and delivery status. Stay updated on the status of your purchases to ensure a smooth and timely shopping experience.
+
+7. `Add Address`: Streamline the checkout process by adding and managing delivery addresses with ease. The Add Address feature allows users to store multiple addresses for convenient shipping options and ensures accurate and efficient delivery of orders.
+
+8. `Payment Method`: Choose from a variety of secure payment methods to complete your purchases seamlessly. Whether it's credit/debit cards, digital wallets, or other payment options, the Payment Method feature offers flexibility and convenience for hassle-free transactions.
 <!--
 ### Installation
 
@@ -133,24 +166,36 @@ The application utilizes Firebase as its backend, providing a seamless integrati
 
 ## Educational Benefit
 
-- `Introduction to Coding Concepts`: Curtain Avenue introduces users to fundamental coding concepts like conditionals and functions through a visual representation of code blocks, aiding in a hands-on learning experience.
+- `Introduction to Coding Concepts`: Saket Sweet introduces users to fundamental e-commerce concepts such as product browsing, cart management, and secure transactions. Through intuitive interfaces and interactive features, users gain hands-on experience in navigating digital marketplaces.
   
-- `Enhanced Logical Thinking`: Users are challenged to think logically and strategically within the virtual city environment, fostering critical thinking skills and efficient problem-solving approaches.
+- `Enhanced Logical Thinking`: Users are challenged to make informed decisions while exploring various curtain categories, managing their cart, and selecting payment methods. This fosters the development of decision-making skills and encourages thoughtful consideration of options.
   
-- `Debugging Skills Development`: The application equips users with the ability to identify and rectify errors, emphasizing the importance of precise coding and enhancing their debugging capabilities.
+- `Financial Literacy Development`: The application promotes financial literacy by allowing users to manage their budgets, track expenses, and understand the financial implications of their purchasing decisions. This hands-on approach to financial management fosters responsible spending habits and financial awareness.
   
-- `Fostering Computational Thinking`: Curtain Avenue encourages the development of computational thinking skills by guiding users to break down complex tasks into manageable steps, promoting structured problem-solving approaches.
+- `Personalized Shopping Experience`: Saket Sweet tailors the shopping experience to each user's preferences and needs, providing personalized recommendations based on browsing history and favorite items. This customization encourages users to explore new products while fostering a sense of ownership over their shopping journey.
   
-- `Problem-Solving Enhancement`: Through overcoming obstacles and challenges within the application, users can enhance their problem-solving skills, fostering resilience and creativity in tackling diverse coding scenarios.
+- `Problem-Solving Enhancement`: Users can enhance their problem-solving skills by resolving issues related to order management, address validation, and payment processing within the application. This hands-on approach to problem-solving encourages users to tackle challenges with creativity and resilience.
 
+## Future Enhancements:
+Interactive Learning Modules: Integrate interactive learning modules within the app to provide users with educational resources on e-commerce best practices, online security, and consumer rights, enhancing their understanding of digital commerce.
+
+Gamified Learning Challenges: Implement gamified learning challenges that simulate real-world e-commerce scenarios, allowing users to apply their knowledge and skills in a fun and engaging way while earning rewards and achievements.
+
+Community Learning Forums: Establish community learning forums where users can share tips, insights, and success stories related to online shopping and financial management. This collaborative environment encourages peer-to-peer learning and knowledge sharing.
+
+Financial Planning Tools: Introduce financial planning tools within the app to help users set budget goals, track spending habits, and plan for future purchases. These tools provide users with practical tools for financial management and goal setting.
+
+E-Commerce Skills Certification: Offer e-commerce skills certification programs within the app, allowing users to demonstrate their proficiency in online shopping, financial management, and digital commerce. Certification programs provide users with tangible credentials to showcase their skills and knowledge in the marketplace.
 
 ## Target Audience
 
-Curtain Avenue is crafted for individuals interested in exploring coding concepts within a captivating virtual environment. This Flutter application with a Firebase backend is ideal for beginners in coding, offering an engaging platform to learn and practice programming skills.
+Budget-Conscious Shoppers: Savvy consumers who prioritize value and affordability, benefiting from features such as budget tracking tools and promotional offers.
 
-The application targets users who are eager to delve into the world of coding, making it suitable for students, hobbyists, and anyone looking to enhance their coding proficiency. Curtain Avenue serves as a valuable resource for those seeking to grasp block-based programming principles in a visually stimulating and interactive manner.
+Tech-Savvy Consumers: Users interested in leveraging technology to streamline their shopping journey, exploring innovative features like virtual room visualization and real-time order tracking.
 
-By combining the allure of a virtual city exploration with coding challenges, Curtain Avenue aims to inspire a love for coding and technology, fostering a solid understanding of programming fundamentals while catering to the aspirations of budding developers and tech enthusiasts alike.
+Busy Professionals: On-the-go individuals who value convenience and efficiency in their shopping experience, appreciating features such as personalized recommendations and secure payment methods.
+
+Interior Design Enthusiasts: Design professionals and enthusiasts seeking inspiration and access to a wide range of curtain options to complement their interior design projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
